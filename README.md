@@ -35,7 +35,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 📂 Estrutura de Pastas
 
 ```bash
-ExpoMoto/
+viagens/
 ├── img              # Imagens, e recursos visuais
 ├── index.html       # Estrutura principal (Home)
 ├── style.css        # Folhas de estilo (Design e Layout)
